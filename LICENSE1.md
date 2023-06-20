@@ -2,8 +2,8 @@
 we are happy to meet you
 
 
-<kbd> <br> [log in][Link] <br> </kbd>
-<kbd> <br> [sgin up][Link] <br> </kbd>
+<kbd> <br> [log in][https://raw.githubusercontent.com/shaahha3/haps.com/main/README.md] <br> </kbd>
+<kbd> <br> [sgin up][https://raw.githubusercontent.com/shaahha3/haps.com/main/README.md] <br> </kbd>
 
 
 hello this is the developer hap.com 
